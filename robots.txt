@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://itisaata.github.io/HYW/sitemap_index.txt
+Sitemap: https://itisaata.github.io/IRw/sitemap_index.txt
+Sitemap: https://itisaata.github.io/OWH/sitemap_index.txt
+Sitemap: https://itisaata.github.io/nUR/sitemap_index.txt
